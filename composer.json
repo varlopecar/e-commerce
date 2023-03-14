@@ -13,7 +13,7 @@
         "doctrine/orm": "^2.14",
         "phpdocumentor/reflection-docblock": "^5.3",
         "phpstan/phpdoc-parser": "^1.16",
-        "sensio/framework-extra-bundle": "^6.1",
+        "sensio/framework-extra-bundle": "^6.2",
         "symfony/asset": "6.2.*",
         "symfony/console": "6.2.*",
         "symfony/doctrine-messenger": "6.2.*",
@@ -41,6 +41,7 @@
         "symfony/web-link": "6.2.*",
         "symfony/yaml": "6.2.*",
         "twig/extra-bundle": "^2.12|^3.0",
+        "twig/intl-extra": "^3.5",
         "twig/twig": "^2.12|^3.0"
     },
     "config": {
@@ -96,9 +97,10 @@
         "symfony/browser-kit": "6.2.*",
         "symfony/css-selector": "6.2.*",
         "symfony/debug-bundle": "6.2.*",
-        "symfony/maker-bundle": "^1.0",
+        "symfony/maker-bundle": "^1.48",
         "symfony/phpunit-bridge": "^6.2",
         "symfony/stopwatch": "6.2.*",
+        "symfony/var-dumper": "6.2.*",
         "symfony/web-profiler-bundle": "6.2.*"
     }
 }
